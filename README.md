@@ -11,6 +11,6 @@
   * Issues: 不明点や疑問についてまとめる
   * Wiki：　CodeやIssuesで得られた情報を見やすく公開するページ
  
-* 文責
-  ムジナ（[[@downloadlab|https://twitter.com/downloadlab/]]）  
+* 文責  
+  ムジナ [[@downloadlab|https://twitter.com/downloadlab/]]
   
